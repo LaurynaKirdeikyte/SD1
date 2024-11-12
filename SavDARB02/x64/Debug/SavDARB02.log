@@ -1,0 +1,5 @@
+﻿  Student.cpp
+C:\Users\sheepi\Desktop\sav\v0.2\SavDARB02\Student.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  SavDARB02.vcxproj -> C:\Users\sheepi\Desktop\sav\v0.2\SavDARB02\x64\Debug\SavDARB02.exe
